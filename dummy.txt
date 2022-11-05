@@ -9,3 +9,4 @@ Dummy content for commit 6
 Dummy content for commit 7
 Dummy content for commit 8
 Dummy content for commit 9
+Dummy content for commit 0
