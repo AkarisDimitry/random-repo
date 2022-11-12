@@ -1,1 +1,2 @@
 Dummy file
+Dummy content for commit 0
